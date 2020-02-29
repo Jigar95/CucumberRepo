@@ -1,6 +1,8 @@
 package com.basic.MyGoogleRestAssured;
+
+
+import org.junit.Assert;
 import org.junit.Test;
-import org.testng.Assert;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
